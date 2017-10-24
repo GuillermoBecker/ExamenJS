@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "nombre": "Cafetera Express",
+        "marca": "Philips Saeco",
+        "modelo": "Saeco Hd8325/42",
+        "precio": 6500
+    },
+    {
+        "id": "2",
+        "nombre": "Cafetera",
+        "marca": "Dolce Gusto",
+        "modelo": "Mini Me Automática",
+        "precio": 5860
+    },
+    {
+        "id": "3",
+        "nombre": "Cafetera",
+        "marca": "XION",
+        "modelo": "XI-CM6",
+        "precio": 500
+    },
+    {
+        "id": "4",
+        "nombre": "Licuadora",
+        "marca": "Philips",
+        "modelo": "Hr2086/90",
+        "precio": 2000
+    },
+    {
+        "id": "5",
+        "nombre": "Licuadora",
+        "marca": "Black + Decker ",
+        "modelo": "Turbo Pro",
+        "precio": 930
+    },
+    {
+        "id": "6",
+        "nombre": "Microondas",
+        "marca": "Daewoo",
+        "modelo": "Kor-6l4b",
+        "precio": 2800
+    },
+    {
+        "id": "7",
+        "nombre": "Microondas",
+        "marca": "Candy",
+        "modelo": "Cmgc 20ds",
+        "precio": 4320
+    }
+]
